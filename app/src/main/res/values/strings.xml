@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TpAndroid</string>
+    <string name="texte">Bienvenu dans mon application </string>
+    <string name="message">Entrez votre nom </string>
+    <string name="texte_button">Continuer </string>
+    <string name="erreur_champ_requis">Champ requis </string>
+</resources>
